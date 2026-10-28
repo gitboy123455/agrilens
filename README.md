@@ -316,6 +316,6 @@ AgriLens gives probabilistic suggestions from a photograph. It is **not** a subs
 
 ## Citing this project
 
-> Roy, S., Engineer, S., Sahu, R., Sharma, Y. (2026). *AgriLens: offline plant-leaf disease diagnosis on Raspberry Pi.* [Institution / repository URL to be added.]
+> Roy, S., Engineer, S., Engineer, F., Sahu, R., Sharma, Y. (2026). *AgriLens: offline plant-leaf disease diagnosis on Raspberry Pi.* [Institution / repository URL to be added.]
 
 **Contact:** [add contact email or institution]
