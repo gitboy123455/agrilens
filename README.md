@@ -214,10 +214,11 @@ Settings you may want to change are in the block near the top of `program4_agril
 
 | Author | Contribution |
 |---|---|
-| Sayantan Roy | [fill in] |
-| Shreyance Engineer | [fill in] |
-| Ryan Sahu | [fill in] |
-| Yatharth Sharma | [fill in] |
+| Sayantan Roy | Developed the program UI and interface with the help of Claude. |
+| Shreyance Engineer | Helped throughout the project and supplied parts for the robots |
+| Ryan Sahu | Helped in the project for the AI development |
+| Yatharth Sharma | Helped in the project for the AI development |
+| Faiyaz Engineer (The Dad of Shreyance) | | Helped the rest of the team members learn about data science and motivated the rest of the team to work harer and helped whenever needed |
 
 The authors defined the project and its requirements, chose the datasets and the merge policy, ran and tested the code on Google Colab and Raspberry Pi hardware, and gave the feedback that shaped each revision.
 
