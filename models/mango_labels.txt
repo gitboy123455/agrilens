@@ -1,0 +1,8 @@
+anthracnose
+bacterial_canker
+cutting_weevil
+die_back
+gall_midge
+healthy
+powdery_mildew
+sooty_mould
