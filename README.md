@@ -90,13 +90,13 @@ Fill these in from your own runs.
 
 | Plant | Val acc | Test acc | Notes |
 |---|---|---|---|
-| Tomato | TODO | TODO | |
-| Potato | TODO | TODO | |
-| Apple | TODO | TODO | |
-| Corn | TODO | TODO | |
-| Grape | TODO | TODO | |
-| Bell pepper | TODO | TODO | |
-| Mango | TODO | TODO | test set is optimistic, see limitations |
+| Tomato | 95.9% | 61.4% | |
+| Potato | 96.7% | 62.5% | |
+| Apple | 98.4% | 82.7% | |
+| Corn | 95.7% | 53.8% | |
+| Grape | 98.2% | 95% | |
+| Bell pepper | 97.4% | 70.6% | |
+| Mango | 97.1% | 97.6% | test set is optimistic, see limitations |
 
 ## Export format (Program 3)
 
