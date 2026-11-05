@@ -10,7 +10,7 @@ plain-language advice on how to treat the plant. Everything runs on the device w
 One small **MobileNetV4** model is trained **per plant** (not one big model for everything) and
 exported to TFLite. The Pi app loads the model for whichever plant the farmer chooses.
 
-> Status: working prototype. See [Known limitations](#known-limitations) before relying on any result.
+> Status: working prototype. See [Known limitations](#known-limitations) before relying on any result. [Mango weights are not available. Only the model is availablle along with the 6 iterations of program4_agrilens]
 
 ---
 
