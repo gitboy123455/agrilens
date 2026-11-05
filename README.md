@@ -319,3 +319,4 @@ AgriLens gives probabilistic suggestions from a photograph. It is **not** a subs
 > Roy, S., Engineer, S., Engineer, F., Sahu, R., Sharma, Y. (2026). *AgriLens: offline plant-leaf disease diagnosis on Raspberry Pi.* [Institution / repository URL to be added.]
 
 **Contact:** [add contact email or institution]
+**Additional Info:** Btw for the people who have seen this...thank you for seeing our project AgriLens! We are just 12 years old working on this project together (Faiyaz Engineer is an adult, fyi) and we're going to take the actual kiosk fully built to a Robotics Competition! This README was made by Claude and so is the code & the models are from the files being run in Google Colab! And one last thing...our team except our mentor are students of Gundecha Education Academy (Kandivali East)! Check it out!
