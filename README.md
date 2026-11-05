@@ -10,7 +10,7 @@ plain-language advice on how to treat the plant. Everything runs on the device w
 One small **MobileNetV4** model is trained **per plant** (not one big model for everything) and
 exported to TFLite. The Pi app loads the model for whichever plant the farmer chooses.
 
-> Status: working prototype. See [Known limitations](#known-limitations) before relying on any result. [Mango weights are not available. Only the model is availablle along with the 6 iterations of program4_agrilens]
+> Status: working prototype. See [Known limitations](#known-limitations) before relying on any result. [Mango weights are not available. Only the model is available along with the 6 iterations of program4_agrilens]
 
 ---
 
@@ -218,7 +218,7 @@ Settings you may want to change are in the block near the top of `program4_agril
 | Shreyance Engineer | Helped throughout the project and supplied parts for the robot. |
 | Ryan Sahu | Helped in the project for the AI development. |
 | Yatharth Sharma | Helped in the project for the AI development. |
-| Faiyaz Engineer (The Dad of Shreyance) | Helped the rest of the team members learn about data science and motivated the rest of the team to work harder and helped whenever needed. |
+| Faiyaz Engineer [Mentor]| Helped the rest of the team members learn about data science and motivated the rest of the team to work harder and helped whenever needed. |
 
 The authors defined the project and its requirements, chose the datasets and the merge policy, ran and tested the code on Google Colab and Raspberry Pi hardware, and gave the feedback that shaped each revision.
 
